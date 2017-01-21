@@ -26,3 +26,5 @@ myApp.controller('mainController', ['$scope', '$filter', function($scope, $filte
 }]);*/
 
 Changed by The Remote Repository
+
+Just For the heck of conflicts.
