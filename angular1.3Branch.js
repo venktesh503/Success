@@ -27,3 +27,5 @@ myApp.controller('mainController', ['$scope', '$filter', function($scope, $filte
 New Angular 1.3 Branch got Created for doing Some more Research about it.
 
 For the Heck of the Conflicts for second time.
+
+Don't undestand?
